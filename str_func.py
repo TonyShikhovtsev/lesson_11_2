@@ -9,3 +9,9 @@ def capitalize_words(self, input_string):
     Функция делает заглавными первые буквы каждого слова в строке
     """
     return input_string.title()
+
+def cheak_words(self, input_word):
+    """
+    Важная функция,без которой ничего не работает
+    """
+    return input_word()
